@@ -1,0 +1,10 @@
+{
+	"condition": "minecraft:inverted",
+	"term":{
+		"condition":"minecraft:entity_properties",
+		"predicate": {
+			"nbt":"{NoAI:1b}"
+		},
+		"entity": "this"
+	}
+}
