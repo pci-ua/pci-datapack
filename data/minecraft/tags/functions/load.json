@@ -1,5 +1,6 @@
 {
   "values":[
-	"pci_basics:init"
+	"pci_basics:init",
+  "pci_guards:init"
   ]
 }
