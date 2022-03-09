@@ -1,2 +1,0 @@
-function pci_basics:spawnprotect/antigrief
-function pci_basics:spawnprotect/mobkiller

@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 3,
-		"description": "PC[i] Server data pack"
+		"pack_format": 8,
+		"description": "Global PC[i] Server datapack, for better quality of life."
 	}
 }
