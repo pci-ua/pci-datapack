@@ -4,9 +4,8 @@ bossbar set minecraft:pci_sleep players @a
 bossbar set minecraft:pci_sleep style progress
 bossbar set minecraft:pci_sleep visible false
 
-scoreboard objectives add PCi_sleep_count dummy
-
 scoreboard objectives remove PCi_sleep_count
+scoreboard objectives add PCi_sleep_count dummy
 
 scoreboard players set :overworld PCi_sleep_count 0
 scoreboard players set :sleeping PCi_sleep_count 0
